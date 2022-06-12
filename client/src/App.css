@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+}
+
+.Time {
+  flex: 1 0 50%;
+  text-align: center;
+}
+
+.Metrics {
+  flex: 1 0 50%;
+  text-align: center;
+  overflow: hidden;
+}
+
+.Metrics-code {
+  font-family: monospace;
+  text-align: left;
+  overflow-x: auto;
+  white-space: pre;
+}

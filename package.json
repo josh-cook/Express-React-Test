@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-prometheus-middleware": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "watch": "nodemon server.js"
+  }
+}
