@@ -1,9 +1,3 @@
-### Connex One Test
-
-## Install the dependencies
-
-
-
 ## Run The Server
 ```
 npm install
