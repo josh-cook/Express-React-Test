@@ -1,11 +1,14 @@
 ### Connex One Test
 
 ## Install the dependencies
-```npm install```
+
 
 
 ## Run The Server
-```npm run watch```
+```
+npm install
+npm run watch
+```
 
 
 ## Run the website
