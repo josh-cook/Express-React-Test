@@ -5,11 +5,15 @@
 
 
 ## Run The Server
-```node server.js```
+```npm run watch```
 
 
 ## Run the website
-```npm start```
+```
+cd client
+npm install
+npm run start
+```
 
 
 ## Optional Helper
